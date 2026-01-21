@@ -129,7 +129,3 @@ vendor-performance-analytics/
 🎯 Use Case
 
 This project supports data-driven procurement and inventory decisions by improving visibility into vendor performance, pricing efficiency, and stock utilization.
-
-🎯 Use Case
-
-This project supports data-driven procurement and inventory decisions by improving visibility into vendor performance, pricing efficiency, and stock utilization.
